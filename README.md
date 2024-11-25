@@ -5,6 +5,12 @@
 ## 💻 **Try FlexOS on:**
 Try, https://novaosholder.github.io/FlexOS/ yes try it there!
 
+## 💻 **Our website:**
+Here: https://novaosholder.github.io/FlexOS_main/ here!
+
+## 💻 **Our developers website:**
+Here: https://novaosholder.github.io/dashboard/ yeah here!
+
 ### 🏆 **Credits:**  
 We extend our deepest gratitude to the **NovaOS Solaris** team for their inspiration and innovation, which played a pivotal role in shaping FlexOS. 💡
 
